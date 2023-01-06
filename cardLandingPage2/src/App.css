@@ -1,0 +1,9 @@
+.wrapper{
+    background: url('./asserts/bg12.jpg'); 
+	height: 40vh;
+	background-position: center;
+	background-size: cover;
+}
+body{
+    background-color:#91006f;
+}
